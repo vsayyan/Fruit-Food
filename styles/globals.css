@@ -42,6 +42,7 @@
 
 html {
   scroll-behavior: smooth;
+  height: 100%;
 }
 
 body {
@@ -50,6 +51,17 @@ body {
   background: #ffffff;
   font-size: var(--font-size-base);
   line-height: 1.5;
+  height: 100%;
+}
+
+body.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.main-content {
+  flex: 1;
 }
 
 a {

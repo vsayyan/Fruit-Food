@@ -25,12 +25,12 @@ export default async function RootLayout({ children }) {
   const footerLabel = await getFooterLabel(lang)
 
   return (
-    <html lang={lang} className={notoSansArmenian.variable}>
-      <body>
-        <Header data={{ logo, navbar, langs, lang }} />
-        <main>{children}</main>
-        <Footer data={footerLabel} />
-      </body>
-    </html>
+  <html lang={lang} className={notoSansArmenian.variable}>
+    <body className="layout">
+      <Header data={{ logo, navbar, langs, lang }} />
+      <main className="main-content">{children}</main>
+      <Footer data={footerLabel} />
+    </body>
+  </html>
   )
 }
