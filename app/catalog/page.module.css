@@ -1,0 +1,16 @@
+.page {
+  padding-top: var(--space-lg);
+  padding-bottom: var(--space-lg);
+}
+
+.title {
+  font-size: var(--font-size-xl);
+  color: var(--color-green);
+  margin-bottom: var(--space-md);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--space-sm);
+}

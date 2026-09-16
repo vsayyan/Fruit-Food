@@ -1,0 +1,1066 @@
+{
+  "logos": {
+    "id": 1,
+    "title": "Fruit Food"
+  },
+  "languages": [
+    {
+      "id": 1,
+      "code": "am",
+      "label": "Հայ"
+    },
+    {
+      "id": 2,
+      "code": "ru",
+      "label": "Рус"
+    },
+    {
+      "id": 3,
+      "code": "en",
+      "label": "Eng"
+    }
+  ],
+  "navbars": [
+    {
+      "id": 1,
+      "lang": "am",
+      "title": "Գլխավոր",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "lang": "am",
+      "title": "Արտադրանք",
+      "url": "/catalog"
+    },
+    {
+      "id": 3,
+      "lang": "am",
+      "title": "Մեր մասին",
+      "url": "/about"
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "title": "Աշխարհագրություն",
+      "url": "/geography"
+    },
+    {
+      "id": 5,
+      "lang": "am",
+      "title": "Կապ",
+      "url": "/contact"
+    },
+    {
+      "id": 6,
+      "lang": "ru",
+      "title": "Главная",
+      "url": "/"
+    },
+    {
+      "id": 7,
+      "lang": "ru",
+      "title": "Продукция",
+      "url": "/catalog"
+    },
+    {
+      "id": 8,
+      "lang": "ru",
+      "title": "О нас",
+      "url": "/about"
+    },
+    {
+      "id": 9,
+      "lang": "ru",
+      "title": "География",
+      "url": "/geography"
+    },
+    {
+      "id": 10,
+      "lang": "ru",
+      "title": "Контакты",
+      "url": "/contact"
+    },
+    {
+      "id": 11,
+      "lang": "en",
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "title": "Products",
+      "url": "/catalog"
+    },
+    {
+      "id": 13,
+      "lang": "en",
+      "title": "About us",
+      "url": "/about"
+    },
+    {
+      "id": 14,
+      "lang": "en",
+      "title": "Geography",
+      "url": "/geography"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "title": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer_labels": [
+    {
+      "id": 1,
+      "lang": "am",
+      "title": "Fruit Food",
+      "description": "Հայաստանյան բնական չրագործեր և միրգային քաղցրավենիք 1995 թվականից:",
+      "copyright": "© 2026 Fruit Food: Բոլոր իրավունքները պաշտպանված են:",
+      "address": "Մ. Գալշոյան 6-8, ք. Սուրենավան, Արարատի մարզ, Հայաստան",
+      "email": "chocochir@mail.ru",
+      "social_links": [
+        {
+          "id": 1,
+          "image": "/images/footer/facebook.svg",
+          "url": "https://www.facebook.com/"
+        },
+        {
+          "id": 2,
+          "image": "/images/footer/instagram.svg",
+          "url": "https://www.instagram.com/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "title": "Fruit Food",
+      "description": "Армянские натуральные сухофрукты и фруктовые сладости с 1995 года.",
+      "copyright": "© 2026 Fruit Food. Все права защищены.",
+      "address": "М. Галшоян 6-8, г. Суренаван, Араратская область, Армения",
+      "email": "chocochir@mail.ru",
+      "social_links": [
+        {
+          "id": 1,
+          "image": "/images/footer/facebook.svg",
+          "url": "https://www.facebook.com/"
+        },
+        {
+          "id": 2,
+          "image": "/images/footer/instagram.svg",
+          "url": "https://www.instagram.com/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "title": "Fruit Food",
+      "description": "Armenian natural dried fruit and fruit sweets since 1995.",
+      "copyright": "© 2026 Fruit Food. All rights reserved.",
+      "address": "M. Galshoyan 6-8, Surenavan, Ararat region, Armenia",
+      "email": "chocochir@mail.ru",
+      "social_links": [
+        {
+          "id": 1,
+          "image": "/images/footer/facebook.svg",
+          "url": "https://www.facebook.com/"
+        },
+        {
+          "id": 2,
+          "image": "/images/footer/instagram.svg",
+          "url": "https://www.instagram.com/"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "lang": "am",
+      "slug": "dried-fruits",
+      "name": "Չրեր և չրային պաստեղներ",
+      "image": "/images/categories/dried-fruits.jpg",
+      "product_count": 12
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "slug": "dried-fruits",
+      "name": "Сухофрукты и фруктовая пастила",
+      "image": "/images/categories/dried-fruits.jpg",
+      "product_count": 12
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "slug": "dried-fruits",
+      "name": "Dried fruits & fruit leathers",
+      "image": "/images/categories/dried-fruits.jpg",
+      "product_count": 12
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "slug": "chocolate-covered",
+      "name": "Շոկոլադապատ չրեր և պաստեղներ",
+      "image": "/images/categories/chocolate-covered.jpg",
+      "product_count": 8
+    },
+    {
+      "id": 5,
+      "lang": "ru",
+      "slug": "chocolate-covered",
+      "name": "Сухофрукты и пастила в шоколаде",
+      "image": "/images/categories/chocolate-covered.jpg",
+      "product_count": 8
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "slug": "chocolate-covered",
+      "name": "Chocolate-covered dried fruits & leathers",
+      "image": "/images/categories/chocolate-covered.jpg",
+      "product_count": 8
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "lang": "am",
+      "code": "100_natural",
+      "icon": "leaf",
+      "label": "100% բնական"
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "code": "100_natural",
+      "icon": "leaf",
+      "label": "100% натурально"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "code": "100_natural",
+      "icon": "leaf",
+      "label": "100% natural"
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "code": "made_in_armenia",
+      "icon": "flag",
+      "label": "Հայկական միրգ"
+    },
+    {
+      "id": 5,
+      "lang": "ru",
+      "code": "made_in_armenia",
+      "icon": "flag",
+      "label": "Армянский продукт"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "code": "made_in_armenia",
+      "icon": "flag",
+      "label": "Made in Armenia"
+    },
+    {
+      "id": 7,
+      "lang": "am",
+      "code": "cocoa_62",
+      "icon": "cocoa",
+      "label": "62% կակավ"
+    },
+    {
+      "id": 8,
+      "lang": "ru",
+      "code": "cocoa_62",
+      "icon": "cocoa",
+      "label": "62% какао"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "code": "cocoa_62",
+      "icon": "cocoa",
+      "label": "62% cocoa"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "lang": "am",
+      "slug": "shokoladapatat-chrer-230",
+      "category_slug": "chocolate-covered",
+      "sku": "2309",
+      "weight_value": 230,
+      "weight_unit": "g",
+      "images": [
+        "/images/products/choco-chir-230-1.jpg",
+        "/images/products/choco-chir-230-2.jpg",
+        "/images/products/choco-chir-230-3.jpg"
+      ],
+      "tags": [
+        "100_natural",
+        "made_in_armenia",
+        "cocoa_62"
+      ],
+      "name": "Շոկոլադապատ չրեր",
+      "composition": "Չրեր (ծիրան, դեղձ, սալոր, թուզ), մուգ շոկոլադ (62% կակավի պարունակությամբ), կակավի ձավեր, կակավի կարագ, շաքար, էմուլգատոր (սոյայի լեցիտին), վանիլին:",
+      "description": "Չրերի ընտիր համադրություն՝ պատված մուգ շոկոլադով:",
+      "variants": [
+        {
+          "id": "v1",
+          "flavor": "Ընկույզ"
+        },
+        {
+          "id": "v2",
+          "flavor": "Թուզ"
+        },
+        {
+          "id": "v3",
+          "flavor": "Ծիրան"
+        },
+        {
+          "id": "v4",
+          "flavor": "Սալոր"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "slug": "shokoladapatat-chrer-230",
+      "category_slug": "chocolate-covered",
+      "sku": "2309",
+      "weight_value": 230,
+      "weight_unit": "g",
+      "images": [
+        "/images/products/choco-chir-230-1.jpg",
+        "/images/products/choco-chir-230-2.jpg",
+        "/images/products/choco-chir-230-3.jpg"
+      ],
+      "tags": [
+        "100_natural",
+        "made_in_armenia",
+        "cocoa_62"
+      ],
+      "name": "Сухофрукты в шоколаде",
+      "composition": "Сухофрукты (абрикос, персик, слива, инжир), тёмный шоколад (62% какао), тёртое какао, какао-масло, сахар, эмульгатор (соевый лецитин), ванилин.",
+      "description": "Отборные сухофрукты в тёмном шоколаде.",
+      "variants": [
+        {
+          "id": "v1",
+          "flavor": "Грецкий орех"
+        },
+        {
+          "id": "v2",
+          "flavor": "Инжир"
+        },
+        {
+          "id": "v3",
+          "flavor": "Абрикос"
+        },
+        {
+          "id": "v4",
+          "flavor": "Слива"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "slug": "shokoladapatat-chrer-230",
+      "category_slug": "chocolate-covered",
+      "sku": "2309",
+      "weight_value": 230,
+      "weight_unit": "g",
+      "images": [
+        "/images/products/choco-chir-230-1.jpg",
+        "/images/products/choco-chir-230-2.jpg",
+        "/images/products/choco-chir-230-3.jpg"
+      ],
+      "tags": [
+        "100_natural",
+        "made_in_armenia",
+        "cocoa_62"
+      ],
+      "name": "Chocolate-covered dried fruits",
+      "composition": "Dried fruits (apricot, peach, plum, fig), dark chocolate (62% cocoa), cocoa mass, cocoa butter, sugar, emulsifier (soy lecithin), vanillin.",
+      "description": "A select mix of dried fruits coated in dark chocolate.",
+      "variants": [
+        {
+          "id": "v1",
+          "flavor": "Walnut"
+        },
+        {
+          "id": "v2",
+          "flavor": "Fig"
+        },
+        {
+          "id": "v3",
+          "flavor": "Apricot"
+        },
+        {
+          "id": "v4",
+          "flavor": "Plum"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "slug": "chrer-200",
+      "category_slug": "dried-fruits",
+      "sku": "1042",
+      "weight_value": 200,
+      "weight_unit": "g",
+      "images": [
+        "/images/products/chrer-200-1.jpg"
+      ],
+      "tags": [
+        "100_natural",
+        "made_in_armenia"
+      ],
+      "name": "Չրեր",
+      "composition": "100% բնական չրեր, առանց շաքարի և կոնսերվանտների ավելացման:",
+      "description": "Բնական չրեր՝ առանց հավելումների:",
+      "variants": [
+        {
+          "id": "v1",
+          "flavor": "Դեղձ"
+        },
+        {
+          "id": "v2",
+          "flavor": "Խնձոր"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "lang": "ru",
+      "slug": "chrer-200",
+      "category_slug": "dried-fruits",
+      "sku": "1042",
+      "weight_value": 200,
+      "weight_unit": "g",
+      "images": [
+        "/images/products/chrer-200-1.jpg"
+      ],
+      "tags": [
+        "100_natural",
+        "made_in_armenia"
+      ],
+      "name": "Сухофрукты",
+      "composition": "100% натуральные сухофрукты, без добавления сахара и консервантов.",
+      "description": "Натуральные сухофрукты без добавок.",
+      "variants": [
+        {
+          "id": "v1",
+          "flavor": "Персик"
+        },
+        {
+          "id": "v2",
+          "flavor": "Яблоко"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "slug": "chrer-200",
+      "category_slug": "dried-fruits",
+      "sku": "1042",
+      "weight_value": 200,
+      "weight_unit": "g",
+      "images": [
+        "/images/products/chrer-200-1.jpg"
+      ],
+      "tags": [
+        "100_natural",
+        "made_in_armenia"
+      ],
+      "name": "Dried fruits",
+      "composition": "100% natural dried fruit, no added sugar or preservatives.",
+      "description": "Natural dried fruit with no additives.",
+      "variants": [
+        {
+          "id": "v1",
+          "flavor": "Peach"
+        },
+        {
+          "id": "v2",
+          "flavor": "Apple"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "lang": "am",
+      "question": "Արդյո՞ք ձեր արտադրանքը բնական է",
+      "answer": "Այո: Fruit Food ընկերության արտադրանքները պատրաստվում են բացառապես բնական հումքից՝ առանց արհեստական հավելումների, կոնսերվանտների և ներկանյութերի:"
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "question": "Ваша продукция натуральная?",
+      "answer": "Да. Продукция Fruit Food производится исключительно из натурального сырья, без искусственных добавок, консервантов и красителей."
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "question": "Are your products natural?",
+      "answer": "Yes. Fruit Food products are made exclusively from natural raw materials, with no artificial additives, preservatives, or colorants."
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "question": "Որտեղի՞ց են արտադրվում Fruit Food-ի արտադրանքները",
+      "answer": "Մեր արտադրանքները արտադրվում են Հայաստանում, Արարատյան դաշտավայրի բնական հումքից:"
+    },
+    {
+      "id": 5,
+      "lang": "ru",
+      "question": "Где производится продукция Fruit Food?",
+      "answer": "Наша продукция производится в Армении, из натурального сырья Араратской долины."
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "question": "Where is Fruit Food produced?",
+      "answer": "Our products are made in Armenia, from natural raw materials of the Ararat valley."
+    }
+  ],
+  "stats": [
+    {
+      "id": 1,
+      "lang": "am",
+      "value": 18,
+      "suffix": "+",
+      "label": "Տարիների փորձ"
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "value": 18,
+      "suffix": "+",
+      "label": "Лет опыта"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "value": 18,
+      "suffix": "+",
+      "label": "Years of experience"
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "value": 150,
+      "suffix": "+",
+      "label": "Ապրանքատեսակների"
+    },
+    {
+      "id": 5,
+      "lang": "ru",
+      "value": 150,
+      "suffix": "+",
+      "label": "Наименований продукции"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "value": 150,
+      "suffix": "+",
+      "label": "Product types"
+    },
+    {
+      "id": 7,
+      "lang": "am",
+      "value": 15,
+      "suffix": "+",
+      "label": "Արտահանման երկրների"
+    },
+    {
+      "id": 8,
+      "lang": "ru",
+      "value": 15,
+      "suffix": "+",
+      "label": "Стран экспорта"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "value": 15,
+      "suffix": "+",
+      "label": "Export countries"
+    },
+    {
+      "id": 10,
+      "lang": "am",
+      "value": 5500,
+      "suffix": "+",
+      "label": "Ամսական հաճախորդների"
+    },
+    {
+      "id": 11,
+      "lang": "ru",
+      "value": 5500,
+      "suffix": "+",
+      "label": "Клиентов в месяц"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "value": 5500,
+      "suffix": "+",
+      "label": "Monthly customers"
+    }
+  ],
+  "export_countries": [
+    {
+      "id": 1,
+      "lang": "am",
+      "code": "usa",
+      "region": "north-america",
+      "name": "ԱՄՆ"
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "code": "usa",
+      "region": "north-america",
+      "name": "США"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "code": "usa",
+      "region": "north-america",
+      "name": "USA"
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "code": "belgium",
+      "region": "europe",
+      "name": "Բելգիա"
+    },
+    {
+      "id": 5,
+      "lang": "ru",
+      "code": "belgium",
+      "region": "europe",
+      "name": "Бельгия"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "code": "belgium",
+      "region": "europe",
+      "name": "Belgium"
+    },
+    {
+      "id": 7,
+      "lang": "am",
+      "code": "lebanon",
+      "region": "middle-east",
+      "name": "Լիբանան"
+    },
+    {
+      "id": 8,
+      "lang": "ru",
+      "code": "lebanon",
+      "region": "middle-east",
+      "name": "Ливан"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "code": "lebanon",
+      "region": "middle-east",
+      "name": "Lebanon"
+    },
+    {
+      "id": 10,
+      "lang": "am",
+      "code": "france",
+      "region": "europe",
+      "name": "Ֆրանսիա"
+    },
+    {
+      "id": 11,
+      "lang": "ru",
+      "code": "france",
+      "region": "europe",
+      "name": "Франция"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "code": "france",
+      "region": "europe",
+      "name": "France"
+    },
+    {
+      "id": 13,
+      "lang": "am",
+      "code": "uae",
+      "region": "middle-east",
+      "name": "Արաբական Միացյալ Էմիրություններ"
+    },
+    {
+      "id": 14,
+      "lang": "ru",
+      "code": "uae",
+      "region": "middle-east",
+      "name": "ОАЭ"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "code": "uae",
+      "region": "middle-east",
+      "name": "United Arab Emirates"
+    },
+    {
+      "id": 16,
+      "lang": "am",
+      "code": "russia",
+      "region": "eurasia",
+      "name": "Ռուսաստան"
+    },
+    {
+      "id": 17,
+      "lang": "ru",
+      "code": "russia",
+      "region": "eurasia",
+      "name": "Россия"
+    },
+    {
+      "id": 18,
+      "lang": "en",
+      "code": "russia",
+      "region": "eurasia",
+      "name": "Russia"
+    },
+    {
+      "id": 19,
+      "lang": "am",
+      "code": "germany",
+      "region": "europe",
+      "name": "Գերմանիա"
+    },
+    {
+      "id": 20,
+      "lang": "ru",
+      "code": "germany",
+      "region": "europe",
+      "name": "Германия"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "code": "germany",
+      "region": "europe",
+      "name": "Germany"
+    },
+    {
+      "id": 22,
+      "lang": "am",
+      "code": "qatar",
+      "region": "middle-east",
+      "name": "Կատար"
+    },
+    {
+      "id": 23,
+      "lang": "ru",
+      "code": "qatar",
+      "region": "middle-east",
+      "name": "Катар"
+    },
+    {
+      "id": 24,
+      "lang": "en",
+      "code": "qatar",
+      "region": "middle-east",
+      "name": "Qatar"
+    },
+    {
+      "id": 25,
+      "lang": "am",
+      "code": "kuwait",
+      "region": "middle-east",
+      "name": "Քուվեյթ"
+    },
+    {
+      "id": 26,
+      "lang": "ru",
+      "code": "kuwait",
+      "region": "middle-east",
+      "name": "Кувейт"
+    },
+    {
+      "id": 27,
+      "lang": "en",
+      "code": "kuwait",
+      "region": "middle-east",
+      "name": "Kuwait"
+    },
+    {
+      "id": 28,
+      "lang": "am",
+      "code": "australia",
+      "region": "oceania",
+      "name": "Ավստրալիա"
+    },
+    {
+      "id": 29,
+      "lang": "ru",
+      "code": "australia",
+      "region": "oceania",
+      "name": "Австралия"
+    },
+    {
+      "id": 30,
+      "lang": "en",
+      "code": "australia",
+      "region": "oceania",
+      "name": "Australia"
+    },
+    {
+      "id": 31,
+      "lang": "am",
+      "code": "kazakhstan",
+      "region": "eurasia",
+      "name": "Ղազախստան"
+    },
+    {
+      "id": 32,
+      "lang": "ru",
+      "code": "kazakhstan",
+      "region": "eurasia",
+      "name": "Казахстан"
+    },
+    {
+      "id": 33,
+      "lang": "en",
+      "code": "kazakhstan",
+      "region": "eurasia",
+      "name": "Kazakhstan"
+    },
+    {
+      "id": 34,
+      "lang": "am",
+      "code": "china",
+      "region": "asia",
+      "name": "Չինաստան"
+    },
+    {
+      "id": 35,
+      "lang": "ru",
+      "code": "china",
+      "region": "asia",
+      "name": "Китай"
+    },
+    {
+      "id": 36,
+      "lang": "en",
+      "code": "china",
+      "region": "asia",
+      "name": "China"
+    },
+    {
+      "id": 37,
+      "lang": "am",
+      "code": "saudi-arabia",
+      "region": "middle-east",
+      "name": "Սաուդյան Արաբիա"
+    },
+    {
+      "id": 38,
+      "lang": "ru",
+      "code": "saudi-arabia",
+      "region": "middle-east",
+      "name": "Саудовская Аравия"
+    },
+    {
+      "id": 39,
+      "lang": "en",
+      "code": "saudi-arabia",
+      "region": "middle-east",
+      "name": "Saudi Arabia"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "lang": "am",
+      "code": "fruit-food",
+      "logo": "/images/brands/fruit-food.png",
+      "name": "Ֆրութ Ֆուդ"
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "code": "fruit-food",
+      "logo": "/images/brands/fruit-food.png",
+      "name": "Фрут Фуд"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "code": "fruit-food",
+      "logo": "/images/brands/fruit-food.png",
+      "name": "Fruit Food"
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "code": "choco-chir",
+      "logo": "/images/brands/choco-chir.png",
+      "name": "Չոկո Չիր"
+    },
+    {
+      "id": 5,
+      "lang": "ru",
+      "code": "choco-chir",
+      "logo": "/images/brands/choco-chir.png",
+      "name": "Чоко Чир"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "code": "choco-chir",
+      "logo": "/images/brands/choco-chir.png",
+      "name": "Choco Chir"
+    },
+    {
+      "id": 7,
+      "lang": "am",
+      "code": "frutastik",
+      "logo": "/images/brands/frutastik.png",
+      "name": "Ֆրուտաստիկ"
+    },
+    {
+      "id": 8,
+      "lang": "ru",
+      "code": "frutastik",
+      "logo": "/images/brands/frutastik.png",
+      "name": "Фрутастик"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "code": "frutastik",
+      "logo": "/images/brands/frutastik.png",
+      "name": "Frutastik"
+    },
+    {
+      "id": 10,
+      "lang": "am",
+      "code": "frulini",
+      "logo": "/images/brands/frulini.png",
+      "name": "Ֆրուլինի"
+    },
+    {
+      "id": 11,
+      "lang": "ru",
+      "code": "frulini",
+      "logo": "/images/brands/frulini.png",
+      "name": "Фрулини"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "code": "frulini",
+      "logo": "/images/brands/frulini.png",
+      "name": "Frulini"
+    },
+    {
+      "id": 13,
+      "lang": "am",
+      "code": "fruita",
+      "logo": "/images/brands/fruita.png",
+      "name": "Ֆրուիտա"
+    },
+    {
+      "id": 14,
+      "lang": "ru",
+      "code": "fruita",
+      "logo": "/images/brands/fruita.png",
+      "name": "Фруита"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "code": "fruita",
+      "logo": "/images/brands/fruita.png",
+      "name": "Fruita"
+    }
+  ],
+  "about_intro": [
+    {
+      "id": 1,
+      "lang": "am",
+      "title": "Բնական որակ, ստեղծված Հայաստանում",
+      "body": "Fruit Food ընկերությունը արտադրում է բնական չրագործեր և միրգային քաղցրավենիք 1995 թվականից, Արարատյան դաշտավայրի հումքից:"
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "title": "Натуральное качество, созданное в Армении",
+      "body": "Компания Fruit Food производит натуральные сухофрукты и фруктовые сладости с 1995 года, из сырья Араратской долины."
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "title": "Natural quality, made in Armenia",
+      "body": "Fruit Food has been producing natural dried fruit and fruit sweets since 1995, from raw materials of the Ararat valley."
+    }
+  ],
+  "contact_page_contents": [
+    {
+      "id": 1,
+      "lang": "am",
+      "title": "Կապ",
+      "description": "Գրեք մեզ՝ համագործակցության, պատվերների կամ ցանկացած այլ հարցի համար:",
+      "name_label": "Անուն",
+      "email_label": "Էլ. փոստ",
+      "subject_label": "Թեմա",
+      "message_label": "Հաղորդագրություն",
+      "submit_label": "Ուղարկել"
+    },
+    {
+      "id": 2,
+      "lang": "ru",
+      "title": "Контакты",
+      "description": "Напишите нам по вопросам сотрудничества, заказов или любым другим вопросам.",
+      "name_label": "Имя",
+      "email_label": "Эл. почта",
+      "subject_label": "Тема",
+      "message_label": "Сообщение",
+      "submit_label": "Отправить"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "title": "Contact",
+      "description": "Write to us about partnership, orders, or any other question.",
+      "name_label": "Name",
+      "email_label": "Email",
+      "subject_label": "Subject",
+      "message_label": "Message",
+      "submit_label": "Send"
+    }
+  ],
+  "contact_messages": []
+}

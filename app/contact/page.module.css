@@ -1,0 +1,15 @@
+.page {
+  padding-top: var(--space-lg);
+  padding-bottom: var(--space-lg);
+}
+
+.title {
+  font-size: var(--font-size-xl);
+  color: var(--color-green);
+  margin-bottom: var(--space-xs);
+}
+
+.description {
+  margin-bottom: var(--space-md);
+  color: var(--color-text-muted);
+}

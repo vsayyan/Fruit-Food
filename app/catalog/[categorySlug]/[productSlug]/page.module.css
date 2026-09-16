@@ -1,0 +1,70 @@
+.page {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-lg);
+  padding-top: var(--space-lg);
+  padding-bottom: var(--space-lg);
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.image {
+  width: 100%;
+  border-radius: var(--radius-md);
+}
+
+.sku {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-xs);
+}
+
+.title {
+  font-size: var(--font-size-xl);
+  color: var(--color-green);
+  margin-bottom: var(--space-xs);
+}
+
+.weight {
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-sm);
+}
+
+.variants {
+  display: flex;
+  gap: var(--space-xs);
+  margin-bottom: var(--space-sm);
+}
+
+.variant {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-xs);
+  font-size: var(--font-size-sm);
+}
+
+.description {
+  margin-bottom: var(--space-sm);
+}
+
+.tags {
+  display: flex;
+  gap: var(--space-xs);
+  margin-bottom: var(--space-sm);
+}
+
+.tag {
+  background: var(--color-cream);
+  border-radius: var(--radius-sm);
+  padding: var(--space-xs);
+  font-size: var(--font-size-sm);
+}
+
+.composition summary {
+  cursor: pointer;
+  font-weight: 600;
+}

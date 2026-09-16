@@ -1,0 +1,42 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  max-width: 480px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  font-size: var(--font-size-sm);
+}
+
+.field input,
+.field textarea {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-xs);
+  font-family: inherit;
+}
+
+.field textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.submit {
+  background: var(--color-green);
+  color: #fff;
+  border-radius: var(--radius-sm);
+  padding: var(--space-xs) var(--space-md);
+  align-self: flex-start;
+}
+
+.success {
+  color: var(--color-green);
+}
+
+.errorMsg {
+  color: #b3261e;
+}
