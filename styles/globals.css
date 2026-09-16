@@ -1,8 +1,9 @@
 :root {
   /* Գույներ */
-  --color-green: #0d5c34;
-  --color-green-dark: #0a4a2a;
-  --color-cream: #f7f3ea;
+  --color-green: #006620;       /* text/headings/links (sampled from Figma) */
+  --color-green-dark: #005b30;  /* solid fills — buttons, footer, dark bands */
+  --color-mint: #e8f2ea;        /* light card/tag backgrounds */
+  --color-cream: #faf9f5;       /* section off-white backgrounds */
   --color-text: #1a1a1a;
   --color-text-muted: #6b6b6b;
   --color-border: #e5e5e5;
