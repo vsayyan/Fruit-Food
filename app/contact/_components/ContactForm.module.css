@@ -26,7 +26,7 @@
 }
 
 .submit {
-  background: var(--color-green);
+  background: var(--color-green-dark);
   color: #fff;
   border-radius: var(--radius-sm);
   padding: var(--space-xs) var(--space-md);

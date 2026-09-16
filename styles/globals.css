@@ -7,6 +7,7 @@
   --color-text: #1a1a1a;
   --color-text-muted: #6b6b6b;
   --color-border: #e5e5e5;
+  --color-error: #dc2626;
 
   /* Spacing scale — բոլոր margin/padding սրանցից, ոչ պատահական թվեր */
   --space-xs: 8px;
@@ -22,7 +23,7 @@
   --radius-lg: 20px;
 
   /* Layout */
-  --container-width: 1280px;
+  --container-width: 1200px;
   --container-padding: var(--space-md);
 
   /* Typography scale */
@@ -78,14 +79,21 @@ textarea:focus-visible {
   outline-offset: 2px;
 }
 
+/*
+  Ամբողջ site-ում կիրառվող page wrapper։ Այլևս `.main`-ի մեջ չի կրկնվում
+  "max-width + margin auto + padding" ամեն page-ում, այլ օգտագործվում ա
+  ուղղակի այս մեկ class-ից։
 
+  Օրինակ՝ <main className={`${styles.main} container`}>...</main>
+*/
 .container {
   max-width: var(--container-width);
   margin: 0 auto;
   padding: 0 var(--container-padding);
 }
 
-
+/* Screen-reader-only text — a11y label-երի համար, որ տեսանելի չեն,
+   բայց screen reader-ը կարդում ա (օր. Header-ի "Հիմնական նավիգացիա" label) */
 .visuallyHidden {
   position: absolute;
   width: 1px;

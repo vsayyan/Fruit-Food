@@ -5,18 +5,31 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 40px;
+  padding: var(--space-xl);
 }
 
 .wrapper h1 {
-  font-size: 32px;
-  color: #dc2626;
-  margin-bottom: 12px;
+  font-size: var(--font-size-xl);
+  color: var(--color-error);
+  margin-bottom: var(--space-xs);
 }
 
 .wrapper p {
-  font-size: 22px;
-  color: #374151;
+  font-size: var(--font-size-lg);
+  color: var(--color-text-muted);
   max-width: 500px;
   line-height: 1.6;
+  margin-bottom: var(--space-md);
+}
+
+.retryButton {
+  padding: var(--space-xs) var(--space-md);
+  background-color: var(--color-green-dark);
+  color: #fff;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+}
+
+.retryButton:hover {
+  background-color: var(--color-green);
 }
