@@ -4,13 +4,7 @@
 
 Multi-language (`am`/`ru`/`en`) site. Next.js 16 App Router + React 19, plain JavaScript, JSX, plain CSS Modules։ Ոչ `src/`, `@/*` alias, `create-next-app` config՝ տես §0։
 
-## Ինչու փոխեցինք architecture-ը
 
-Հին տարբերակում `data/*.json`-ը ուղղակի **import** էր արվում component-ների մեջ (`import products from '@/data/products.json'`)։ Սա աշխատում էր, բայց.
-- Չէր նմանվում իրական backend-ի աշխատանքին (իրական API-ն HTTP request ա, ոչ local import)
-- Multi-language-ը `{ am, ru, en }` object-ի տեսքով էր, ինչը իրական DB-ում (Django-ում) այդպես չի պահվում. իրական DB-ն ամեն լեզվի համար **առանձին տող** ունի
-
-**Նոր տարբերակում.**
 - `db.json`-ը սպասարկվում ա որպես **իրական HTTP API** `json-server`-ով (`localhost:8000`)
 - Frontend-ը իրեն **axios**-ով request ա անում, ուղիղ այնպես, ինչպես Django-ի հետ կանի վերջում
 - Ամեն տող ունի `lang` field (`"lang": "am"`), ֆիլտրվում ա query param-ով (`?lang=am`) — ուղիղ այնպես, ինչպես Django REST-ում կաշխատեր
@@ -110,7 +104,7 @@ styles/
 |---|---|---|
 | Team lead / ինտեգրում | Vahe | ամբողջ repo-ի review |
 | Backend (Django, վերջում) | Narek | `/backend`, model-երը՝ `db.json`-ի collection-ներից |
-| Header + Footer + Intro | Vahag (40) | `components/header`, `components/footer`, home-ի hero |
+| Header + Footer + Intro | Vahag  | `components/header`, `components/footer`, home-ի hero |
 | Արտադրանք preview + stats | Ashot | `app/page.jsx`-ի "Արտադրանք" հատված + stats collection |
 | Փիլիսոփայություն + FAQ | Saten | `app/about/_components/`, `faq` collection |
 | Կատալոգ (3 էջ) | Elina | `app/catalog/*` (արդեն կա full pattern՝ list/category/product) |
