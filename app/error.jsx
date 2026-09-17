@@ -7,10 +7,10 @@ import styles from './error.module.css'
 export default function Error({ error, reset }) {
   return (
     <div className={styles.wrapper}>
-      <h1>Ինչ-որ բան սխալ գնաց</h1>
-      <p>Փորձիր նորից, կամ վերադարձիր հետո։</p>
+      <h1>Something went wrong.</h1>
+      <p>Try again, or come back later.</p>
       <button onClick={reset} className={styles.retryButton}>
-        Փորձել կրկին
+        Try again
       </button>
     </div>
   )
