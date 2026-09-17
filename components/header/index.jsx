@@ -1,7 +1,7 @@
 import Logo from './Logo'
 import Navbar from './Navbar'
 import Langs from './Langs'
-import styles from './header.module.css'
+import styles from './Header.module.css'
 
 export default function Header({ data }) {
   return (

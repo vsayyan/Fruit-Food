@@ -3,7 +3,7 @@ import { displayLang } from '@/lib/lang'
 import { getLogo, getNavbar, getLangs, getFooterLabel } from './actions'
 import Header from '@/components/header'
 import Footer from '@/components/footer'
-import '@/styles/globals.css'
+import './globals.css'
 
 const notoSansArmenian = Noto_Sans_Armenian({
   subsets: ['armenian', 'latin'],

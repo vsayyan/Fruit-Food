@@ -1,6 +1,6 @@
 'use client'
 
-import styles from './header.module.css'
+import styles from './Header.module.css'
 
 // Լեզուն փոխելը = cookie գրել + reload անել, որ Server Component-երը
 // (page.jsx, layout.js) նոր lang-ով նորից fetch անեն json-server-ից։
