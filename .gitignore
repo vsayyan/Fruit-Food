@@ -14,3 +14,6 @@ yarn-error.log*
 .vscode/
 *.swp
 *.swo
+
+# local DB — amen mek@ ir db.json-n uni (copy db_orinak_example-ic)
+/db.json
